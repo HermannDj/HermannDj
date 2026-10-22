@@ -69,7 +69,6 @@ kubectl get nodes
 ### ⚡ [aws-serverless-api-terraform](https://github.com/HermannDj/aws-serverless-api-terraform)
 > API REST serverless — **$0/mois** sur AWS Free Tier
 
-[![CI — PR Checks](https://github.com/HermannDj/aws-serverless-api-terraform/actions/workflows/pr-checks.yml/badge.svg)](https://github.com/HermannDj/aws-serverless-api-terraform/actions/workflows/pr-checks.yml)
 [![AWS Free Tier](https://img.shields.io/badge/AWS-Free_Tier_Safe-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/free/)
 
 - **API Gateway** + **Lambda Python 3.12** + **DynamoDB** + **Cognito**
