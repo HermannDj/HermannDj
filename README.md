@@ -48,8 +48,6 @@ OS           │ Linux (Ubuntu/CentOS/RHEL — 10+ ans)
 ### 🏗️ [aws-eks-platform-terraform](https://github.com/HermannDj/aws-eks-platform-terraform)
 > Plateforme EKS production-grade déployée sur AWS **ca-central-1**
 
-[![CI — PR Checks](https://github.com/HermannDj/aws-eks-platform-terraform/actions/workflows/pr-checks.yml/badge.svg)](https://github.com/HermannDj/aws-eks-platform-terraform/actions/workflows/pr-checks.yml)
-[![CI — Post-merge Plan](https://github.com/HermannDj/aws-eks-platform-terraform/actions/workflows/merge-plan.yml/badge.svg)](https://github.com/HermannDj/aws-eks-platform-terraform/actions/workflows/merge-plan.yml)
 
 - **VPC 3-tier** (public/private/database) + NAT Gateway + Flow Logs
 - **EKS** managed node groups + **IRSA** (IAM Roles for Service Accounts)
