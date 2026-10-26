@@ -5,7 +5,7 @@
 
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 [![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hermanndjoko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hermanndjoko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hermann--djoko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hermann-djoko)
 
 ---
 
@@ -127,7 +127,7 @@ kubectl get nodes
 
 ## 📫 Me contacter
 
-- 💼 **LinkedIn** : [linkedin.com/in/hermanndjoko](https://linkedin.com/in/hermanndjoko)
+- 💼 **LinkedIn** : [linkedin.com/in/hermann-djoko](https://linkedin.com/in/hermann-djoko)
 - 📧 **Email** : harnaud.djoko@gmail.com
 - 📍 **Localisation** : Québec, Canada — Remote ✅ | Hybride ✅
 
